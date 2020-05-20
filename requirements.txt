@@ -22,7 +22,7 @@ euca2ools==3.4.1
 Flask==1.1.1
 GeoIP==1.3.2
 html5lib==1.0.1
-httplib2==0.11.3
+httplib2==0.18.0
 hyperlink==19.0.0
 idna==2.7
 imagefactory==1.1.11
