@@ -33,7 +33,7 @@ ipaddress==1.0.18
 itsdangerous==1.1.0
 Jinja2==2.10.1
 libvirt-python==5.1.0
-lxml==4.2.5
+lxml==4.6.2
 M2Crypto==0.35.2
 Mako==1.0.12.dev0
 MarkupSafe==1.1.1
